@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Mangonote GUI
+GenericName=Mangonote-GUI
+Comment=Mangonote GUI
+Exec=mangonote-wallet-gui
+Type=Application
+Terminal=false
+Categories=Network;Qt;Finance;Office;
+Icon=org.getmangonote.Mangonote
+StartupNotify=true
